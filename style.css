@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    background-color: rgb(204, 85, 0);
+}
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: rgb(217, 1, 21);
+
+}
+
+header h1 {
+    font-size: 3rem;
+    color: black;
+}
+
+h2{
+    font-size: 2rem;
+    color: rgb(255, 215, 0);
+}
+
+
+#map {
+    height: 580px;
+}
+
+.hide {
+	display: none !important;
+}
+
+.block{
+	display: block;
+}
+
+#search {
+	display: block;
+	margin : 30px 0;
+}
+
+#business {
+	width: 30%;
+    border: 3px solid black;
+    height: 30px;
+    font-size: 1.5rem;
+}
+form input:nth-of-type(2) {
+    padding: 5px;
+}
