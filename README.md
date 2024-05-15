@@ -8,9 +8,8 @@ Search a locality or services with the searchbar. You can enter an address or a 
 This apllication use the library JavaScript Leaflet. I used the following technologies :
 
 - <img src="https://leafletjs.com/docs/images/logo.png" width="100" />
-- Leaflet library ![télécharger (11)](https://github.com/mathieu-Glt/ApiMapLeaflet/assets/84771497/40ac1d18-01fc-4cae-a920-fa7f44f3c8be | width=100)
-- HTML ![télécharger (17)](https://github.com/mathieu-Glt/ApiMapLeaflet/assets/84771497/03595e5d-ac46-45e4-9568-79ac5fcac99d | width=100) 
-- CSS ![télécharger (18)](https://github.com/mathieu-Glt/ApiMapLeaflet/assets/84771497/be35ab14-ed31-436e-871b-ed846b4cf90c | width=100)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" />
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFZMZW2x0RVsIePn4WA2SOVceQG1UPnkZ_m4x-XkDPAeUO1Awfdvd1Bg0CWwLgtsUwnLk&usqp=CAU" width="100" /> 
 
 
 ## Support
