@@ -13,8 +13,8 @@ This apllication use the library JavaScript Leaflet. I used the following techno
 
 ## Overview 
 ![Capture d'écran 2024-05-16 120433](https://github.com/mathieu-Glt/ApiMapLeaflet/assets/84771497/2e9e43f9-a939-464f-88b0-c4eb1a9a36b5) 
-![Capture d'écran 2024-05-16 120353](https://github.com/mathieu-Glt/ApiMapLeaflet/assets/84771497/61cfa377-5e7e-4c10-9c8b-b96eefbf1a5e)
-
+![Capture d'écran 2024-05-16 120256](https://github.com/mathieu-Glt/ApiMapLeaflet/assets/84771497/3da24c52-fe98-478b-aa9d-253f3b423d8d) 
+![Capture d'écran 2024-05-16 120216](https://github.com/mathieu-Glt/ApiMapLeaflet/assets/84771497/eedf1a99-4585-452d-875b-d00ae024fe24)
 
 ## Support
 If you have any questions, ideas, feedback, or anything else about this project, send me an email at mathieuglt1@gmail.com.
